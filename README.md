@@ -27,5 +27,5 @@ Determinar si una gráfica es *Hamiltoniana*, es decir, si se puede recorrer tod
 ## Teorema de los 4 colores
 Todo mapa puede ser coloreado con 4 colores, sin que dos paises adyacentes tengan el mismo color. (se traduce a que toda gráfica plana tiene $\chi(G)=4$)
 
-
+Estos solo son algunos de los problemas clasiscos.
 
